@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou o Paulo Ricardo ✌️
 
-[![blog](https://img.shields.io/website?label=MeuPorftolio&style=for-the-badge&url=https://sparkling-melomakarona-063689.netlify.app/)](https://sparkling-melomakarona-063689.netlify.app/)
+[![blog](https://img.shields.io/website?label=MeuPorftolio&style=for-the-badge&url=https://pauloricardo-portfolio.netlify.app/)](https://pauloricardo-portfolio.netlify.app/)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ricardo-cruz-da-silva-308b5b185/)
 
